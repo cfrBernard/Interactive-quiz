@@ -19,5 +19,5 @@ This project is licensed under the MIT License. See the [docs/LICENSE](docs/LICE
 
 ---
 
-**Current Version**: 1.1
+**Current Version**: 1.1 // cfrbernard.github.io/Interactive-quiz/
 
