@@ -3,11 +3,15 @@
 ## Description:
 BlitzBuzzer is an interactive quiz web application built using HTML, CSS, and JavaScript, with dynamic questions fetched from the Open Trivia Database API. The app allows users to select question categories and adjusts the difficulty progressively for an engaging user experience. With a clean and intuitive user interface, players can focus on the challenge, improving their knowledge while enjoying a smooth game experience.
 
+**Current Version**: 1.1.0 // [cfrbernard.github.io/Interactive-quiz/](https://cfrbernard.github.io/Interactive-quiz/)
+
 <br>
 
 <p align="center">
-  <img src="resources/img/demo/chrome_gnxeOmKWMx.png" alt="Screenshot 1" width="30%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="resources/img/demo/chrome_bKB3HqwtzT.png/" alt="Screenshot 1" width="30%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="resources/img/demo/chrome_gnxeOmKWMx.png" alt="Screenshot 2" width="30%" />
+  &nbsp;&nbsp;&nbsp;
   <img src="resources/img/demo/chrome_CqCYHOPyay.png" alt="Screenshot 2" width="30%" />
 </p>
 
@@ -26,8 +30,3 @@ BlitzBuzzer is an interactive quiz web application built using HTML, CSS, and Ja
 
 ## License:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-**Current Version**: 1.1 // [cfrbernard.github.io/Interactive-quiz/](https://cfrbernard.github.io/Interactive-quiz/)
-
