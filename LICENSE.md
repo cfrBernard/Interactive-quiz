@@ -1,4 +1,4 @@
-## Code, logo, icon: MIT License
+# Code, logo, icon: MIT License
 
 ### Copyright (c) 2024 C. Bernard
 
@@ -22,7 +22,7 @@ SOFTWARE.
 
 ---
 
-## API data provided: CC BY-SA 4.0
+# API data provided: CC BY-SA 4.0
 
 **All data provided by the API** is available under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). API PROVIED BY https://opentdb.com/api_config.php
 You are free to share, adapt, and use the data for any purpose, even commercially, as long as you provide appropriate credit and distribute any derivative works under the same license.
